@@ -18,7 +18,7 @@ Siddhartha Chitrakar - siddhartha.chitrakar1@gmail.com
 
 Muhammad Shah - shahwm227@gmail.com
 
-Joshua Smith - unknown
+Joshua Nobleza - joshnobleza@bell.net
 
 ## External Tools and Libraries Used
 
