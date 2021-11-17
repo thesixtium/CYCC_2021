@@ -18,6 +18,8 @@ Siddhartha Chitrakar - siddhartha.chitrakar1@gmail.com
 
 Muhammad Shah - shahwm227@gmail.com
 
+Joshua Smith - unknown
+
 ## External Tools and Libraries Used
 
 Tutorials:
