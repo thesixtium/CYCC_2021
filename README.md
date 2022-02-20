@@ -35,3 +35,11 @@ JavaScript Libraries:
 * React
 * ReactDOM
 * App
+
+
+## Contact
+[My Website](https://thesixtium.github.io/)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
